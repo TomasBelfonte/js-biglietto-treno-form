@@ -1,0 +1,92 @@
+
+.card img{
+    width: 105%;
+    aspect-ratio: 2/1;
+    margin-left: -5rem;
+    margin-right: -5rem;
+}
+
+.first-row {
+    height: 400px;
+}
+
+.container {
+    min-width: 1280px;
+
+}
+
+.tb-first-container {
+    min-width: 1280px;
+}
+
+.second-row .my-name {
+    position: absolute;
+    top: 12rem;
+    left: 7rem;
+}
+
+.my-name {
+    position: absolute;
+    top: 12rem;
+    left: 25rem;
+}
+
+
+.my-name .text-primary {
+    font-size: 25px;
+}
+
+
+.distance {
+    position: absolute;
+    top: 12rem;
+    left: 25rem;
+}
+
+.distance .text-primary {
+    font-size: 25px;
+}
+
+.offerta-passeggero {
+    position: absolute;
+    top: 12rem;
+    left: 45rem;
+}
+
+.offerta-passeggero .text-primary {
+    font-size: 25px;
+}
+
+.carrozza-passeggero {
+    position: absolute;
+    top: 22rem;
+    left: 9rem;
+}
+
+.carrozza-passeggero .text-primary {
+    font-size: 25px;
+}
+
+.codice-passeggero {
+    position: absolute;
+    top: 22rem;
+    left: 27rem;
+}
+
+.codice-passeggero .text-primary {
+    font-size: 25px;
+}
+
+.biglietto-passeggero {
+    position: absolute;
+    top: 22rem;
+    left: 43rem;
+}
+
+.biglietto-passeggero .text-primary {
+    font-size: 25px;
+}
+
+.tbdisplay {
+    display: block;
+}
